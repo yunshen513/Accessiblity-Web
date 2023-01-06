@@ -1,0 +1,16 @@
+.layout_map {
+   width: 90%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.map_title {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.map_content {
+    width: 100%;
+    height: 100%;
+    margin:20px;
+}
